@@ -1,4 +1,4 @@
-# Teste-CaixaEletronico
+# Test-ATM
 
 As the language used in Zenvia is English, I chose to make the code in this language.
 
